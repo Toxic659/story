@@ -18,3 +18,8 @@ git remote rm origin : to remove origin url
 gitignore will take the name of the files or comments # or wild card *.txt
 
 git clone URL : to download and create a clone of a github repositry and paste it into your work directory 
+
+
+git branch : to check what branch we have 
+git branch example : to create a new branch with a name example 
+git checkout example : to enter the example branch 
