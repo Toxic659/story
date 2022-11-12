@@ -23,3 +23,4 @@ git clone URL : to download and create a clone of a github repositry and paste i
 git branch : to check what branch we have 
 git branch example : to create a new branch with a name example 
 git checkout example : to enter the example branch 
+git merge example : to merge the example branch with the master branch 
