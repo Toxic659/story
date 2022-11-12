@@ -1,0 +1,4 @@
+this is a example txt file 
+it should be shown inside the example branch 
+it should be shown inside the master branch after the merge 
+it should be not shown inside the expermnatl branch 
