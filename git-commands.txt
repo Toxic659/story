@@ -1,0 +1,20 @@
+git init: to creat an empty git repository
+git status: to see tracked and untrackecd file 
+git add: to add file to the git repository 
+git commit -m : to commit changes and give it a massage
+git config  user.email " " : to log in with ur email
+git config --global user.name "Toxic659" : to log in with username
+git log : to see all commit version 
+
+git diff : to see changes in the file name 
+git checkout : to get back to the latest commit 
+
+
+$ git rm --cached -r . : to remove all commited file 
+
+git remote rm origin : to remove origin url 
+
+.gitignore : to creat a file with the name of the files you want to ignore adding to your repositiry
+gitignore will take the name of the files or comments # or wild card *.txt
+
+git clone URL : to download and create a clone of a github repositry and paste it into your work directory 
